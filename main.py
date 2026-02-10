@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 # ===== CHANGE THESE =====
 EVENT_URL = "https://in.bookmyshow.com/sports/super-8-match-8-icc-men-s-t20-wc-2026/ET00474264"
-TELEGRAM_TOKEN = "8500443898:AAFHtmA15oDZODTcqyq_kp1UU0nRUp96AR8"
+TELEGRAM_TOKEN = "8386803926:AAFdoxr8EePx87pz3G8ZJC2snLbWVWYjtjE"
 CHAT_ID = "1349239306"
 CHECK_INTERVAL = 20
 # =======================
