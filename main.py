@@ -28,6 +28,7 @@ def check_book_now():
 
 
 print("Bot started...")
+send_telegram_message("RAILWAY TEST MESSAGE")
 
 while True:
     try:
