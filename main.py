@@ -33,7 +33,7 @@ while True:
     try:
         print("Checking page...")
 
-        if True():
+        if True:
             print("BOOK NOW FOUND!")
             send_telegram_message("🎟 Tickets are LIVE! Go Book Now!")
             break
