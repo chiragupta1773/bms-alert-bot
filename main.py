@@ -28,13 +28,12 @@ def check_book_now():
 
 
 print("Bot started...")
-send_telegram_message("RAILWAY TEST MESSAGE")
 
 while True:
     try:
         print("Checking page...")
 
-        if True:
+        if check_book_now():
             print("BOOK NOW FOUND!")
             send_telegram_message("🎟 Tickets are LIVE! Go Book Now!")
             break
