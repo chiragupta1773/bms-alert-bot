@@ -19,7 +19,7 @@ def send_telegram_message(message):
     requests.post(url, data=data)
 
 
-3def check_book_now(url):
+def check_book_now(url):
     headers = {
         "User-Agent": "Mozilla/5.0"
     }
